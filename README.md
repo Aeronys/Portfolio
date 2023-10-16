@@ -1,2 +1,13 @@
-# Portfolio
-Work in progress, simply being used for the edX GitHub course at the moment
+# Portfolio Title
+
+## Section 1
+
+### Subsection
+
+### Subsection
+
+## Section 2
+
+### Subsection
+
+### Subsection
